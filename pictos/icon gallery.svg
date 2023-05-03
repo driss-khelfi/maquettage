@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.58 351.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #184078;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #069292;
+      }
+
+      .cls-3 {
+        fill: #ededed;
+      }
+
+      .cls-4 {
+        fill: #2fac66;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="23.13" y="2" width="296.45" height="318.93"/>
+  <rect class="cls-3" x="2" y="30.4" width="296.45" height="318.93"/>
+  <rect class="cls-1" x="13.54" y="48.15" width="273.37" height="226.63"/>
+  <path class="cls-2" d="m55.81,248.78h231.1s0-49.93,0-49.93c-8.45-7.06-22.24-16.3-41.27-19.12-35.57-5.26-58.21,16.58-109.05,27.7-17.8,3.89-44.26,7.6-79.04,5.07-.58,12.09-1.17,24.19-1.75,36.28Z"/>
+  <path class="cls-4" d="m286.91,274.78H13.54v-75.74c9.99-10.7,26.31-24.73,48.82-28.99,42.08-7.98,68.86,25.15,128.99,42.01,21.05,5.9,52.35,11.53,93.49,7.69.69,18.34,1.38,36.69,2.07,55.03Z"/>
+  <ellipse class="cls-3" cx="77.15" cy="99.01" rx="52.66" ry="13.02"/>
+  <ellipse class="cls-3" cx="220.02" cy="149.42" rx="61.22" ry="18.43"/>
+</svg>
